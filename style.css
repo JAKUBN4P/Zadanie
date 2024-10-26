@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    background-color: grey;
+}
+
+p{
+    background-color: aqua;
+}
+
+a{
+    text-decoration: none;
+    color: white
+}
+
+footer{
+    justify-content: center;
+}
+
+.powrot{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.size{
+    font-size: 23px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
